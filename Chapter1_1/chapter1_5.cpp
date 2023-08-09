@@ -20,7 +20,7 @@ double divideTwoNumbers(double num_a, double num_b)
 }
 
 
-int main()
+int mainChapter1_5()
 {
 	// 같은 작업을 반복하게됨.
 	cout << 1 + 2 << endl;

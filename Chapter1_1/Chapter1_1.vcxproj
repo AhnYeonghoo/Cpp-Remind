@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chapter1_10.cpp" />
+    <ClCompile Include="chapter1_11.cpp" />
+    <ClCompile Include="chapter1_13.cpp" />
+    <ClCompile Include="chapter1_14.cpp" />
+    <ClCompile Include="chapter1_5.cpp" />
+    <ClCompile Include="chapter1_6.cpp" />
+    <ClCompile Include="chapter1_7.cpp" />
+    <ClCompile Include="chapter1_8.cpp" />
+    <ClCompile Include="chapter1_9.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chapter1_11_add.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
